@@ -34,7 +34,6 @@ export default function Page() {
           {/* Add Hero Images Here */}
         </div>
       </div>
-sName="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black" />
     </main>
   );
 }
